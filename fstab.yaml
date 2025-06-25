@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502//bin/franklin.delivery/mveerkapoor/edsforms/main"
+    url: "http://localhost:4502/bin/franklin.delivery/mveerkapoor/edsforms/main"
     type: "markup"
     suffix: ".html"
