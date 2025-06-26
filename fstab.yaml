@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/mveerkapoor/edsforms/main"
+    url: "https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/mveerkapoor/edsforms/main"
     type: "markup"
     suffix: ".html"
